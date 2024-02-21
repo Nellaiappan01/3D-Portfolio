@@ -104,21 +104,7 @@ export const skills = [
     }
 ];
 
-export const experiences = [
-    {
-        title: "React.js Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
-        iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
-    
+export const experiences = [ 
     {
         title: "OS Operator",
         company_name: "PSA SICAL HARBOUR",
@@ -126,10 +112,10 @@ export const experiences = [
         iconBg: "#b7e4c7",
         date: "June 2017 - Nov 2020",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Collaborated with PSA SICAL HARBOUR to develop a comprehensive port management system.",
+            "Enhanced security features to ensure compliance with international regulations and protect sensitive data.",
+            "Conducted thorough testing and validation to guarantee system robustness and performance under diverse operating conditions.",
+            "Designed with scalability and reliability to handle large volumes of maritime traffic and cargo",
         ],
     },
 
@@ -140,10 +126,10 @@ export const experiences = [
         iconBg: "#FFFF00",
         date: "Dec 2020 - March 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            " Larsen & Toubro Microfinance is committed to providing inclusive financial services to underserved communities, including small business owners, entrepreneurs. ",
+            "Women borrowers often use microfinance loans to start or grow small businesses, such as tailoring, agriculture, handicrafts, and retail, contributing to economic development and poverty alleviation.",
+            "Individuals without access to traditional banking services.",
+            "Community-driven financial support",
         ],
     },
     {
@@ -153,10 +139,10 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "April 2023 - Present",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Contact Management: Organize and manage customer contact information, including names, addresses, emails, and phone numbers.",
+            "Opportunity Management: Track potential deals and opportunities, including sales forecast, probability, and expected revenue.",
+            "Workflow Automation: Automate repetitive tasks, notifications, and processes to streamline sales and marketing operations.",
+            "Security and Data Privacy: Ensure data security and compliance with regulations by implementing role-based access controls, encryption, and regular data backups.",
         ],
     },
 ];
