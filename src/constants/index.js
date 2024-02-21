@@ -1,5 +1,5 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
-import {
+import { meta, shopify, starbucks, tesla,sathya,L_T } from "../assets/images";
+import { 
     car,
     contact,
     css,
@@ -22,7 +22,7 @@ import {
     snapgram ,
     estate ,
     summiz,
-    typescript
+    typescript,
 } from "../assets/icons";
 
 export const skills = [
@@ -118,19 +118,7 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
-    {
-        title: "React Native Developer",
-        company_name: "Tesla",
-        icon: tesla,
-        iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
+    
     {
         title: "Web Developer",
         company_name: "Shopify",
@@ -144,12 +132,26 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
+
     {
-        title: "Full stack Developer",
-        company_name: "Meta",
-        icon: meta,
-        iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
+        title: "Sales Executive",
+        company_name: "Larsen & Toubro MicroFinance",
+        icon: L_T,
+        iconBg: "#FFFF00",
+        date: "Jan 2021 - March 2023",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
+        title: "CRM Executive",
+        company_name: "Sathya Corporate office",
+        icon: sathya,
+        iconBg: "#fbc3bc",
+        date: "April 2023 - Present",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -184,6 +186,7 @@ export const projects = [
         name: 'Amazon Price Tracker',
         description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
         link: 'https://github.com/adrianhajdin/pricewise',
+        link:"https://google.com"
     },
     {
         iconUrl: threads,
@@ -191,13 +194,16 @@ export const projects = [
         name: 'Full Stack Threads Clone',
         description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
         link: 'https://github.com/adrianhajdin/threads',
-    },
+        link:"https://google.com"
+},
     {
         iconUrl: car,
         theme: 'btn-back-blue',
         name: 'Car Finding App',
         description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
         link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        link:"https://google.com"
+
     },
     {
         iconUrl: snapgram,
@@ -205,6 +211,8 @@ export const projects = [
         name: 'Full Stack Instagram Clone',
         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
         link: 'https://github.com/adrianhajdin/social_media_app',
+        link:"https://google.com"
+
     },
     {
         iconUrl: estate,
@@ -212,6 +220,8 @@ export const projects = [
         name: 'Real-Estate Application',
         description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
         link: 'https://github.com/adrianhajdin/projects_realestate',
+        link:"https://google.com"
+
     },
     {
         iconUrl: summiz,
@@ -219,5 +229,6 @@ export const projects = [
         name: 'AI Summarizer Application',
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
         link: 'https://github.com/adrianhajdin/project_ai_summarizer',
+        link:"https://google.com"
     }
 ];
