@@ -1,0 +1,25 @@
+npm create vite@latest
+npm install / npm run dev
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install react-router-dom
+npm install three @types/three @react-three/fiber
+npm install @react-three/drei
+https://sketchfab.com/feed
+https://gltf.pmnd.rs/
+vite.config - assetsInclude:["**/*.glb"],
+npm install react-spring
+npm install @react-spring/three
+npm install  @emailjs/browser
+emailjs  website log in ( nellaiappans22@gmail.com /dGqwj5!S*-N$cTw)
+npm i react-vertical-timeline-component
+
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Nellaiappan01/3D-Portfolio.git
+git push -u origin main

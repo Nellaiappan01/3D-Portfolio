@@ -1,0 +1,21 @@
+vite use - npm create vite@latest
+project folder - > npm install
+npm run dev
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install react-router-dom
+npm install @react-three/fiber
+npm install @react-three/drei
+npm install --legacy-peer-deps -D postcss autoprefixer
+https://sketchfab.com/
+gltf.pmnd.rs
+npm install @react-spring/three
+
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Nellaiappan01/3D.git
+git push -u origin main
