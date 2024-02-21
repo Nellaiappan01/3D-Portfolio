@@ -6,6 +6,7 @@ import tesla from './tesla.png'
 import logo from './logo.svg'
 import sathya from './sathya.png'
 import L_T from './L_T.png'
+import anchor from './anchor.png'
 
 export {
     hero,
@@ -15,5 +16,6 @@ export {
     tesla,
     logo,
     sathya,
-    L_T
+    L_T,
+    anchor
 }

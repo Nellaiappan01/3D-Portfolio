@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla,sathya,L_T } from "../assets/images";
+import { meta, shopify, starbucks, tesla,sathya,L_T,anchor } from "../assets/images";
 import { 
     car,
     contact,
@@ -120,11 +120,11 @@ export const experiences = [
     },
     
     {
-        title: "Web Developer",
-        company_name: "Shopify",
-        icon: shopify,
+        title: "OS Operator",
+        company_name: "PSA SICAL HARBOUR",
+        icon: anchor,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "June 2017 - Nov 2020",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -138,7 +138,7 @@ export const experiences = [
         company_name: "Larsen & Toubro MicroFinance",
         icon: L_T,
         iconBg: "#FFFF00",
-        date: "Jan 2021 - March 2023",
+        date: "Dec 2020 - March 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
