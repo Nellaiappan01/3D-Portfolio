@@ -83,16 +83,6 @@ export const skills = [
         type: "Frontend",
     },
     {
-        imageUrl: redux,
-        name: "Redux",
-        type: "State Management",
-    },
-    {
-        imageUrl: sass,
-        name: "Sass",
-        type: "Frontend",
-    },
-    {
         imageUrl: tailwindcss,
         name: "Tailwind CSS",
         type: "Frontend",
@@ -140,7 +130,6 @@ export const experiences = [
         date: "April 2023 - Present",
         points: [
             "Contact Management: Organize and manage customer contact information, including names, addresses, emails, and phone numbers.",
-            "Opportunity Management: Track potential deals and opportunities, including sales forecast, probability, and expected revenue.",
             "Workflow Automation: Automate repetitive tasks, notifications, and processes to streamline sales and marketing operations.",
             "Security and Data Privacy: Ensure data security and compliance with regulations by implementing role-based access controls, encryption, and regular data backups.",
         ],
@@ -161,7 +150,7 @@ export const socialLinks = [
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/in/nellaiappan-s-1036411a6/',
     }
 ];
 

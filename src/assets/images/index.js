@@ -7,6 +7,7 @@ import logo from './logo.svg'
 import sathya from './sathya.png'
 import L_T from './L_T.png'
 import anchor from './anchor.png'
+import N_logo from './N_logo.png'
 
 export {
     hero,
@@ -17,5 +18,6 @@ export {
     logo,
     sathya,
     L_T,
-    anchor
+    anchor,
+    N_logo
 }
